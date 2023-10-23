@@ -64,3 +64,52 @@ VW Passat; passat; 50k
 VW Passat R; passatr; 90k > slomer dan normale passat
 Toyota Prius; prius; 23,5k
 Fiat Punto; punto; 16,5k
+----------------------------------------------------------
+Audi Q8; q820; 90k
+Audi R8 V10 ABT;r8v10abt; 250k > top speed verhogen
+VW Touareg; r50; 130k > snelheid iets verhogen
+ram2500 > model niet werkend
+Ford F150 Raptor; raptor150; 150k > veelste snel
+Audi RS7 Wide Body; rmodrs7; 400k > Topspeed nu 250 >> 340kmh
+Audi RS3 2011; rs3; 120k > Topspeed nu 180 >> 220kmh
+Audi RS4 Avant; rs4avant; 150k > Topspeed nu 160 >> 250kmh
+rs5 > model niet werkend
+Audi RS6 C7; rs6; 200k > Te langzaam
+Audi RS6 C8; rs6avant20; 300k
+rs6rabt20 > spawned niet
+Audi RS7 C7; rs7; 220k > Te langzaam
+Audi RS7 C8; rs7c8; 320k > Topspeed 230 >> 330kmh
+Audi RS6 C8 ABT; rs62; 360k
+Audi RS3 2018; rs318; 180k
+rs520 > model spawned niet
+Audi RSQ8 Mansory; rsq8m; 500k
+Range Rover SVR; rsvr16; 230k > langzaam
+Volvo S60 Polestar; s60pole; 70k > beetje traag
+Mercedes S63 AMG 2018;s63amg18; 220k
+s63b > model niet compleet
+Mercedes S500; s500w222; 110k > langzaam
+sclkuz > model niet werkend 
+Renault Sport RS; sportrs; 2.2m > topspeed verhogen naar 440 kmh
+Audi SQ7 2016; sq72016; 180k 
+Ford Fiesta ST; st3; 55k
+Toyota Supra; supra2; 90k > Topspeed 220 >> 260kmh
+Tesla Model X; teslax; 230k > Topspeed omlaag naar 240kmh
+Tesla Model S; tmodel; 300k 
+Toyota GR86; toygr86; 110k
+Tesla Roadster 2022; tr22; 800k
+Dodge RAM TRX; trx; 90k
+Renault Twizy; twizy; 15k 
+Lamborghini Urus; urus; 550k > langzaam
+Volvo V60 T6; v60burger; 120k
+Mercedes V250; V250; 130k
+Hyundai Velaster N; veln; 80k 
+velociraptor > dubbel en niet werkend model
+VW Touareg 2019; vwtoua19c; 150k 
+Mercedes E420; w210; 35k 
+Brabus G800; w463a1; 750k
+Ford Bronco; wildtrak; 75k 
+BMW X5; x5e53; 120k
+BMW X6; x6m; 200k
+Jaguar XJ; xj; 80k 
+Mercedes X-Klasse 6x6; xxxxx; 850k
+Kawasaki ZX10R; zx10r; 110k
