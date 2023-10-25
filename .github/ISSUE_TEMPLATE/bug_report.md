@@ -6,6 +6,7 @@ labels: bug
 assignees: ''
 
 ---
+**Geef antwoord op de vragen zonder de vragen te verwijderen, bedankt!**
 
 **Beschrijving van de bug**
 Een duidelijke en beknopte beschrijving van wat de bug is.
