@@ -12,7 +12,7 @@ jobs:
     - name: Run Discord Webhook
       uses: johnnyhuy/actions-discord-git-webhook@main 
       with:
-        webhook_url: ${{ https://discord.com/api/webhooks/1162086796566482984/cBtkwDrlpLje11fHTWGW-5NbY62xRpxw5P4Im2M3AoJZ3rUo6OipMiNPAtpZTR0RCps_ }}
+        webhook_url: https://discord.com/api/webhooks/1162086796566482984/cBtkwDrlpLje11fHTWGW-5NbY62xRpxw5P4Im2M3AoJZ3rUo6OipMiNPAtpZTR0RCps_ 
         censor_username: false
         repo_name: Poortvliet Roleplay
         hide_links: true
